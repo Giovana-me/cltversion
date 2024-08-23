@@ -1,4 +1,4 @@
-Comandos com escrita técnica:
+Comandos com escrita técnica - 
 -Crie um novo repositório no github chamado "cltversion";
 -Abra o terminal do seu código em html no vscode;
 -Nesse terminal, digite o comando para inicializar o diretório como o repositório:
@@ -15,6 +15,7 @@ git remote add origin "URL do repositório"
 git push -u origin main
 Com isso, os passos estarão concretizados com sucesso!
 
+Modelo de trabalho (razão de cada branch) -
 *Branch-css:
 A branch-css, ficará responsável pelas mudanças e/ou melhorias no arquivo CSS;
 Desenvolvendo uma maior qualidade do software para garantir uma boa experiência UX.
